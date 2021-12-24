@@ -17,8 +17,8 @@ The quality assessment algorithm first extracts the vital features from the soun
     sys
     
   ## To obtain the objective score on the the test clip using the pre-trained model:
-  Download the model_final.json and model_final.h5 files
-  Run the predict_github.py file.
+    Download the model_final.json and model_final.h5 files
+    Run the predict_github.py file.
   
   ## To obtain the full dataset please email us:
   deebhamumtaz@gmail.com
