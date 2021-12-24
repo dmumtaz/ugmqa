@@ -1,6 +1,6 @@
 # Non-Intrusive Deep Learning based Perceptual Audio Quality Assessment for User-Generated Content
 
-The repository provides the dataset and the code for the quality assessment of user generated multimedia audio.
+The repository provides the code for predicting the quality of user generated multimedia audio.
 The IIT-JMU-UGM Audio Dataset is a repository consisting of audio clips extracted from various sources and degraded by real-world distortions.
 The quality assessment algorithm first extracts the vital features from the sound track and then employs a stacked GRU architecture for training the model.
 
@@ -19,6 +19,10 @@ The quality assessment algorithm first extracts the vital features from the soun
   ## To obtain the objective score on the the test clip:
   Download the model_final.json and model_final.h5 files
   Run the predict_github.py file.
+  
+  ##If you use our code please cite us:
+  Non-Intrusive Deep Learning based Perceptual Audio Quality Assessment for User-Generated Content 
+  
 
 
 
