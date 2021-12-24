@@ -7,7 +7,7 @@ The quality assessment algorithm first extracts the vital features from the soun
 ## Dependencies Needed:
 
     Python
-    Tensorflow
+    glob
     Keras
     Librosa
     Numpy
