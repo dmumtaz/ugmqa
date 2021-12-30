@@ -23,7 +23,7 @@ The quality assessment algorithm first extracts the vital features from the soun
   deebhamumtaz@gmail.com
   
   ## If you use our code please cite us:
-  "Non-Intrusive Perceptual Audio Quality Assessment for User-Generated Content Using Deep Learning"  D. Mumtaz, V. Jakhetiya, K. Nathwani, B. N. Subudhi, and S. C. Guntuku in IEEE Transactions on Industrial Informatics 2021 (accepted) 
+  D. Mumtaz, V. Jakhetiya, K. Nathwani, B. N. Subudhi and S. C. Guntuku, "Non-Intrusive Perceptual Audio Quality Assessment for User-Generated Content Using Deep Learning," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2021.3139010.
 
 
 
